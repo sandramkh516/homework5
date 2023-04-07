@@ -1,1 +1,16 @@
-
+body {
+  color: antiquewhite;
+  max-width: 800px;
+  margin: auto;
+  font-size: 18px;
+  padding: 40px 10px 40px 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}

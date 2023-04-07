@@ -1,0 +1,10 @@
+.style-description {
+  background: rgb(242, 233, 233);
+  color: rgb(7, 2, 43);
+  text-align: center;
+  border-radius: 5px;
+}
+
+.temp {
+  font-size: 38px;
+}
