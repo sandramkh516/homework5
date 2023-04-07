@@ -11,7 +11,11 @@ export default function App() {
       </div>
       <footer className="mt-5">
         This project was coded by Sara Mokhtari and is{" "}
-        <a href="/" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://github.com/sandramkh516/homework5"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           open-source
         </a>
       </footer>
